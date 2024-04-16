@@ -1,0 +1,27 @@
+main{
+    padding: 2rem;
+}
+
+#buttonSection{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+#mainSection{
+    display: flex;
+    justify-content: center;
+
+}
+
+#post-data{
+    display: none;
+    border: 1px solid black;
+    width: 50rem;
+    max-width: 95%;
+}
+
+#errorMessage{
+    display: none;
+}
+
